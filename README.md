@@ -12,15 +12,12 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-*It is the functionality 1 of my project.* Algorithm Visualizer is an online platform that visualizes algorithms from as per user choice. Algorithm-visualizer is a web app IT IS A CV WEBSITE OF BISWA.WHICH CONTAINS ALL DETAILS OF BISWA.
-IT IS MY 1ST HTML WEBSITE.IT IS A SIMPLE CV WEBSITE WHICH IS CREATED BY SIMPLE HTML TAGS.
+I am a student of BTECH in UEMK. My favourite programmimg languages are C, JAVA, PYTHON, FLUTTER, HTML, CSS, JAVA SCRIPT etc. My educational qualifications are secondary exam passout in 2017, HS passout in 2019, BTECH in 2023. My hobbies are programming, singing, playing Call of Duty and Badminton. This simple demo profile page shows all tese information about me.
 ## LINK of full project: :point_right: https://biswa2210.github.io/demo-profile-pg-basic/
 ## Purpose :point_down:
-
-## Use :point_down:
-
+I have made this so that people can know about me. 
 ## Importance :point_down:
-
+It is important for more interaction with people.
 ## Folder Structure :point_down:
 ```bash
 demo-profile-pg-basic
@@ -34,7 +31,7 @@ demo-profile-pg-basic
 
 ```                    
 ## Making :point_down:
-
+I have made this using HTML5, CSS3.
 ## Screenshots :point_down: 
 <div align="center">
 <a href="pg.PNG"><img src="pg.PNG" width="400" height= "250"></a>
