@@ -34,6 +34,6 @@ demo-profile-pg-basic
 I have made this using HTML5, CSS3.
 ## Screenshots :point_down: 
 <div align="center">
-<a href="pg.PNG"><img src="pg.PNG" width="400" height= "250"></a>
+<a href="pg.PNG"><img src="pg.PNG" width="800" height= "400"></a>
 </div>
 
