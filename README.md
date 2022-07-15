@@ -23,6 +23,10 @@
 I am a student of BTECH in UEMK. My favourite programmimg languages are C, JAVA, PYTHON, FLUTTER, HTML, CSS, JAVA SCRIPT etc. My educational qualifications are secondary exam passout in 2017, HS passout in 2019, BTECH in 2023. My hobbies are programming, singing, playing Call of Duty and Badminton. This simple demo profile page shows all tese information about me.
 </div>
 
+## DEMO PROFILE PAGE VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=cYRVSKH5ydg&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=10">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK of full project: :point_right: https://biswa2210.github.io/demo-profile-pg-basic/
 
 ## Purpose :point_down:
